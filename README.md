@@ -40,13 +40,6 @@ F1	84.4%	89.0%
 
 With only 9 participants and a Bonferroni-corrected threshold, the paired significance tests did not provide enough evidence to call the improvement statistically significant, even though the average improvement was substantial — the notebook is upfront about this rather than only reporting the headline numbers.
 
-Repository Structure
-.
-├── fianl_anti_theft_notebook.ipynb   # Main notebook: data loading, feature
-│                                       engineering, model training, LOPO
-│                                       evaluation, statistical testing
-├── requirements.txt                   # Python dependencies
-└── README.md
 
 Getting Started
 
